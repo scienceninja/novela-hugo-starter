@@ -1,7 +1,7 @@
 ---
 title: "...We weren't so attached to our devices"
 date: 2020-04-27
-hero: "/images/hero-3.jpg"
+hero: "/images/mikail-duran-sim_yaigrzu-unsplash.jpg"
 excerpt: Devices are addictive like meth. Here are some ideas to help you kick the
   habit.
 timeToRead: 8
