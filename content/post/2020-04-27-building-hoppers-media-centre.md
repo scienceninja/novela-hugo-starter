@@ -1,9 +1,9 @@
 ---
-title: A story of why Forestry loves Hugo
+title: "...We weren't so attached to our devices"
 date: 2020-04-27
 hero: "/images/hero-3.jpg"
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
-  apps in the U.S, along with Uber, Lyft.
+excerpt: Devices are addictive like meth. Here are some ideas to help you kick the
+  habit.
 timeToRead: 8
 authors:
 - Dennis Brotzky
